@@ -1,0 +1,9 @@
+{
+    "templates" : [
+        { 
+            "name" : "bundle-test",
+            "element" : "index",
+            "options" : {}
+        }
+    ]
+}

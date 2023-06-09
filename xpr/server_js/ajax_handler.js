@@ -1,5 +1,4 @@
 var xpr_objects = require("/xpr/request");
-var stripe_utils = require("SimpleStripe/Stripe"); 
 var analytics = require("XprObjects/XprAnalytics");
 
 exports.process = function(context, options) {
