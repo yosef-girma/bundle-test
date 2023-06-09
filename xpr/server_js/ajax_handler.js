@@ -4,6 +4,7 @@ var analytics = require("XprObjects/XprAnalytics");
 exports.process = function(context, options) {
 
 
+    return "ajaxHandler";
 }
 function process(){
     let request = xpr_objects.XprRequest();
