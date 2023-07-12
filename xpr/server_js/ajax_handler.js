@@ -1,5 +1,5 @@
-var xpr_objects = require("/xpr/request");
-var analytics = require("XprObjects/XprAnalytics");
+// var xpr_objects = require("/xpr/request");
+// var analytics = require("XprObjects/XprAnalytics");
 
 exports.process = function(context, options) {
 
