@@ -9,13 +9,13 @@ exports.process = function(context, options) {
     }
 
 }
-function process(){
+// function process(){
 
 	
- //    let request = xpr_objects.XprRequest();
- //    var api = xpr_objects.XprApi;
+//  //    let request = xpr_objects.XprRequest();
+//  //    var api = xpr_objects.XprApi;
     
 
-	// //analytics.trackSearch(request.urlParams.q, 'test','test');	
- //    return 1;
-}
+// 	// //analytics.trackSearch(request.urlParams.q, 'test','test');	
+//  //    return 1;
+// }
