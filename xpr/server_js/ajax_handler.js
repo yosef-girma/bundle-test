@@ -1,12 +1,13 @@
 // var xpr_objects = require("/xpr/request");
 // var analytics = require("XprObjects/XprAnalytics");
 
+require('/xpr/utilities');
 exports.process = function(context, options) {
-
-    XprConsole.log('Test from console log');
-    return { 
+	PHP.XprConsole("Test from bundle test from main");		
+   	 XprConsole.log('Test from console log');
+    	return { 
         "message": "Hello world"
-    }
+   	 }
 
 }
 // function process(){
