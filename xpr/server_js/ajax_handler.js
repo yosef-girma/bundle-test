@@ -1,7 +1,8 @@
 // var xpr_objects = require("/xpr/request");
 // var analytics = require("XprObjects/XprAnalytics");
 
-require('/xpr/utilities');
+// require('/xpr/utilities');
+var utils = require('/xpr/utilities');
 exports.process = function(context, options) {
 	PHP.XprConsole("Test from bundle test from main");		
    	 XprConsole.log('Test from console log');
