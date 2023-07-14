@@ -5,7 +5,7 @@
 var utils = require('/xpr/utilities');
 exports.process = function(context, options) {
 	PHP.XprConsole("Test from bundle test from main");		
-   	 XprConsole.log('Test from console log');
+   	 utils.XprConsole.log('Test hello');
     	return { 
         "message": "Hello world"
    	 }
