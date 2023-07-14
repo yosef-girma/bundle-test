@@ -9,7 +9,6 @@ exports.process = function(context, options) {
     	return { 
         "message": "Hello world"
    	 }
-
 }
 // function process(){
 
